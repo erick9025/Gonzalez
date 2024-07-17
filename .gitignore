@@ -1,0 +1,8 @@
+mochawesome-report/
+node_modules/
+cypress/videos
+cypress/screenshots
+cypress/results
+.DS_Store
+cypress/.DS_Store
+cypress/cucumber-json/cucumber-report.json
